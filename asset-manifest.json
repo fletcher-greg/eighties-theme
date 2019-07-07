@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fletcher-greg/eighties-theme/static/css/main.125e7f26.chunk.css",
-    "main.js": "/fletcher-greg/eighties-theme/static/js/main.15ea3d9b.chunk.js",
-    "main.js.map": "/fletcher-greg/eighties-theme/static/js/main.15ea3d9b.chunk.js.map",
-    "runtime~main.js": "/fletcher-greg/eighties-theme/static/js/runtime~main.3b6d6ae1.js",
-    "runtime~main.js.map": "/fletcher-greg/eighties-theme/static/js/runtime~main.3b6d6ae1.js.map",
-    "static/js/2.3310f33a.chunk.js": "/fletcher-greg/eighties-theme/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "/fletcher-greg/eighties-theme/static/js/2.3310f33a.chunk.js.map",
-    "index.html": "/fletcher-greg/eighties-theme/index.html",
-    "precache-manifest.dd3f79b837c1933040c827e17b868802.js": "/fletcher-greg/eighties-theme/precache-manifest.dd3f79b837c1933040c827e17b868802.js",
-    "service-worker.js": "/fletcher-greg/eighties-theme/service-worker.js",
-    "static/css/main.125e7f26.chunk.css.map": "/fletcher-greg/eighties-theme/static/css/main.125e7f26.chunk.css.map"
+    "main.css": "/eighties-theme/static/css/main.125e7f26.chunk.css",
+    "main.js": "/eighties-theme/static/js/main.cea07c6b.chunk.js",
+    "main.js.map": "/eighties-theme/static/js/main.cea07c6b.chunk.js.map",
+    "runtime~main.js": "/eighties-theme/static/js/runtime~main.df85711c.js",
+    "runtime~main.js.map": "/eighties-theme/static/js/runtime~main.df85711c.js.map",
+    "static/js/2.3310f33a.chunk.js": "/eighties-theme/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/eighties-theme/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/eighties-theme/index.html",
+    "precache-manifest.ce868d4d8fdc877224420c1682fb968a.js": "/eighties-theme/precache-manifest.ce868d4d8fdc877224420c1682fb968a.js",
+    "service-worker.js": "/eighties-theme/service-worker.js",
+    "static/css/main.125e7f26.chunk.css.map": "/eighties-theme/static/css/main.125e7f26.chunk.css.map"
   }
 }
